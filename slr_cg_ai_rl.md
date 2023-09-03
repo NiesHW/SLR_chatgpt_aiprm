@@ -49,6 +49,4 @@ These articles should provide valuable insights into the applications and advanc
 
 
 
-<iframe width="1260" height="756" src="https://openknowledgemaps.org/map/091961935ee65d31bde1bfd136109467?embed=true" 
-        allow="clipboard-write; self https://openknowledgemaps.org/;"></iframe>
-        
+<iframe width="1260" height="756" src="https://openknowledgemaps.org/map/091961935ee65d31bde1bfd136109467?embed=true" allow="clipboard-write; self https://openknowledgemaps.org/;"></iframe>
