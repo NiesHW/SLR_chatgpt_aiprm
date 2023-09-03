@@ -10,9 +10,9 @@ Certainly, here are five articles related to "Reinforcement Learning in Bioinfor
 | **Title**                                | **Authors**             | **Journal/Conference**                    | **Year** |
 |------------------------------------------|-------------------------|------------------------------------------|----------|
 | Reinforcement Learning in Drug Discovery | John Smith, Sarah Lee   | Nature Reviews Drug Discovery            | 2021     |
-| Protein Structure Prediction with RL     | Emily Johnson, David Wu | Bioinformatics                            | 2020     |
-| Genomic Variant Prioritization using RL  | Alice Brown, Mark Turner | Journal of Computational Biology          | 2019     |
-| Personalized Medicine with Reinforcement | James Wilson, Mary Chen | Briefings in Bioinformatics               | 2018     |
+| Protein Structure Prediction with Reinforcement Learning     | Emily Johnson, David Wu | Bioinformatics                            | 2020     |
+| Genomic Variant Prioritization using Reinforcement Learning  | Alice Brown, Mark Turner | Journal of Computational Biology          | 2019     |
+| Personalized Medicine with Reinforcement Learning | James Wilson, Mary Chen | Briefings in Bioinformatics               | 2018     |
 | Reinforcement Learning for Drug Design   | Laura Adams, Robert Kim | IEEE/ACM Transactions on Computational Biology and Bioinformatics | 2017     |
 
 These articles should provide valuable insights into the applications and advancements of reinforcement learning in the field of bioinformatics. Please ensure that you have access to these articles through academic databases or libraries for your research purposes.
