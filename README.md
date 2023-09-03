@@ -5,7 +5,8 @@
 *  [AIPRM Prompt "Human-like Writer - V1.2"](https://github.com/NiesHW/SLR_chatgpt_aiprm/blob/main/human_like_writer.md)
 
 # Systematic Literature Review
-### Certainly, here are five articles related to "Reinforcement Learning in Bioinformatics" presented in a table format:
+
+Certainly, here are five articles related to "Reinforcement Learning in Bioinformatics" presented in a table format:
 
 | **Title**                                | **Authors**             | **Journal/Conference**                    | **Year** |
 |------------------------------------------|-------------------------|------------------------------------------|----------|
