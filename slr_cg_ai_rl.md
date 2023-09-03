@@ -1,4 +1,4 @@
-# Resource: https://drshahizan.gitbook.io/slr/introduction/how-to-do-slr
+# [Resource](https://drshahizan.gitbook.io/slr/introduction/how-to-do-slr)
 
 Certainly, here are three research questions for a comprehensive review on the topic of "Reinforcement Learning Applications in Bioinformatics":
 
